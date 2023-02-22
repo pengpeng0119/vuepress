@@ -1,0 +1,25 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "description": "vuepress study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengpeng0119/vuepress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengpeng0119/vuepress/issues"
+  },
+  "homepage": "https://github.com/pengpeng0119/vuepress#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  }
+}
